@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header
+{
+    background-color: #263646;
+}
+.navigation
+{
+padding: 0px!important;
+}
+.icon-gift
+{
+    float: left;
+    background-color: #febd69;
+}
+.gift-text
+{
+    float: left;
+    border-left: 2px dashed black;
+    color: black;
+    background-color: white;font-size: 17.5px;
+}
+.icon-new
+{
+    padding: 0px!important;
+}
+
+.slider
+{
+    padding: 0px !important;
+    
+}
+.slider-img
+{
+    height: 300px;
+}
+.icon-image
+{
+    border: none!important;    
+}
+.service-heading
+{
+  color:black;
+  font-size: 15px;
+  line-height: 24px;
+  font-family:Poppins, sans-serif;
+  font-weight: 500;
+}
+.service-text
+{
+    color: #979797;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    
+}
+.card-services
+{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.deals-of-day
+{ 
+    color: #000000;
+    font-weight: 500;
+    font-size: 20px;
+    font-family:Poppins, sans-serif;
+    line-height:36px;
+    
+}
+.checked {
+  color: orange;
+}
+.cart-button
+{
+    color: white!important;
+    background-color: #febd69!important;
+}
+.product-title
+{ 
+    color: black;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 500;
+}
+.navigation1 a
+{
+    font-size: 20px!important;
+}
